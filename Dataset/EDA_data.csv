@@ -1,0 +1,21 @@
+﻿Age,Income,Education,Gender,City,Productivity,Rating,Experience,Department
+NaN,50000,NaN,NaN,NaN,75,4.2,5,NaN
+NaN,60000,Bachelor,Male,Chicago,NaN,3.8,NaN,IT
+22,48000,NaN,Male,NaN,60,4.5,7,Marketing
+NaN,75000,PhD,Male,San Francisco,NaN,4,NaN,Finance
+28,NaN,Bachelor,Female,Chicago,NaN,NaN,4,IT
+NaN,NaN,NaN,Male,NaN,NaN,NaN,NaN,HR
+33,68000,Master,NaN,Los Angeles,85,4.2,8,Marketing
+40,80000,NaN,Male,San Francisco,78,4.6,3,NaN
+NaN,55000,PhD,NaN,New York,65,3.9,5,Finance
+22,90000,High School,Male,Chicago,95,NaN,10,NaN
+31,67000,NaN,Female,NaN,88,NaN,7,Marketing
+29,59000,Bachelor,NaN,San Francisco,75,4,4,NaN
+NaN,NaN,PhD,Female,NaN,80,NaN,NaN,Finance
+38,72000,Master,Male,Los Angeles,92,NaN,9,NaN
+24,49000,High School,Female,San Francisco,70,4.1,3,IT
+NaN,NaN,Bachelor,Male,New York,NaN,4.7,NaN,HR
+100,NaN,PhD,Female,San Francisco,NaN,NaN,12,Finance
+NaN,69000,Master,NaN,Chicago,80,4,NaN,NaN
+28,54000,NaN,NaN,Los Angeles,75,4.2,NaN,IT
+34,NaN,High School,Male,NaN,82,4.5,7,HR
