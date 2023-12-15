@@ -1,0 +1,101 @@
+Age,Income,Education,Gender,City,Productivity,Rating,Experience,Department
+24,52666,Master,Female,Los Angeles,89,3.0724850684375458,6,Marketing
+37,78660,Master,Female,Chicago,64,3.877177669478743,7,HR
+32,43561,PhD,Female,Chicago,82,3.886357185211706,3,IT
+28,66854,Bachelor,Female,Chicago,85,2.2578096720898317,6,Marketing
+25,78952,Bachelor,Female,San Francisco,69,4.256382266698917,5,Marketing
+38,62662,Bachelor,Male,San Francisco,81,3.263130931119643,8,Finance
+24,48392,PhD,Male,Los Angeles,64,4.066143665269355,9,IT
+36,70535,Master,Female,Los Angeles,63,2.8001240025765295,3,IT
+28,53067,Master,Female,Los Angeles,61,4.238808071240501,3,HR
+28,88033,Bachelor,Male,San Francisco,79,2.973004196835408,3,Finance
+38,63599,Master,Male,San Francisco,69,2.027094128700746,7,Finance
+21,75222,Master,Female,Los Angeles,85,4.26345494104816,6,Finance
+25,51837,PhD,Male,Los Angeles,78,2.2282166919653337,7,Finance
+20,54039,PhD,Female,San Francisco,85,2.7982840939760374,6,IT
+39,70818,PhD,Male,Los Angeles,60,4.375154917627013,7,IT
+38,59115,PhD,Female,Chicago,83,4.376517867343891,7,Marketing
+19,50965,Bachelor,Male,San Francisco,64,3.433594720308215,8,Marketing
+29,64538,PhD,Female,Los Angeles,72,3.579593030424498,5,Finance
+23,82530,Master,Male,San Francisco,63,3.121113804945799,7,Finance
+19,45056,Bachelor,Male,Chicago,75,2.7330269292451614,8,Finance
+38,72482,Master,Female,San Francisco,83,2.82166136342479,4,Marketing
+18,87716,Master,Male,San Francisco,75,3.681296140192596,5,HR
+29,48110,Master,Female,San Francisco,82,3.8809363235942,7,HR
+39,53773,PhD,Male,San Francisco,61,3.978947609314621,9,Marketing
+29,67266,PhD,Female,Chicago,76,3.9740453569863847,3,Marketing
+34,57412,Bachelor,Male,San Francisco,87,2.228015257621726,4,Marketing
+27,73270,Bachelor,Female,San Francisco,86,3.2360507617564536,4,Marketing
+33,46910,PhD,Male,Los Angeles,79,2.143896900041611,8,Marketing
+32,85453,Master,Female,San Francisco,83,3.373822205809339,4,Marketing
+32,65446,Bachelor,Male,Los Angeles,71,3.1038262534334424,5,Finance
+36,40206,PhD,Female,Chicago,77,4.21926045689575,7,Finance
+29,61518,PhD,Female,Chicago,62,2.8772875313801967,7,Finance
+37,62361,PhD,Female,Chicago,87,2.2926675410690147,9,Finance
+20,63419,Master,Male,Chicago,60,2.3574792051320896,3,Marketing
+22,88702,PhD,Female,Los Angeles,60,3.9037765792936807,8,HR
+36,81523,PhD,Male,San Francisco,88,3.5455451582906528,3,IT
+24,85151,PhD,Female,Chicago,78,2.2528066903069757,4,Marketing
+38,62403,PhD,Male,San Francisco,70,2.2102670152874935,9,IT
+26,58141,Bachelor,Female,Los Angeles,64,3.7524228286478,3,HR
+24,54820,Bachelor,Male,Los Angeles,71,2.181907515910484,5,Finance
+35,80342,PhD,Male,Los Angeles,62,4.054650148225891,7,HR
+21,46374,Master,Female,Chicago,60,3.7656055678912406,4,Marketing
+31,41678,Bachelor,Male,San Francisco,60,2.2033719516047494,9,Finance
+35,73827,PhD,Male,San Francisco,67,2.21209428521298,3,Marketing
+26,56198,Bachelor,Female,San Francisco,69,4.4665989462529385,8,Finance
+38,49914,Bachelor,Male,Los Angeles,70,2.9356769893903008,5,IT
+19,67890,Master,Male,Chicago,71,2.9266053676672272,5,IT
+37,62299,PhD,Male,Los Angeles,88,4.031998918143756,3,IT
+32,83585,PhD,Female,Los Angeles,72,4.368121443459646,7,HR
+24,83689,Master,Male,San Francisco,71,4.465002659557177,3,Marketing
+29,82557,Master,Female,Los Angeles,73,3.8834454631473543,4,HR
+25,89080,PhD,Male,San Francisco,61,2.9406489638272895,3,IT
+32,84020,PhD,Male,Chicago,88,2.208751791746672,5,Marketing
+20,42693,Master,Male,San Francisco,78,3.942867289818592,9,IT
+31,69467,Bachelor,Female,Chicago,77,3.3960106243395125,3,HR
+34,69723,Bachelor,Male,San Francisco,62,3.0605550231174408,7,HR
+21,86699,Master,Male,Los Angeles,82,4.26588596273684,9,HR
+35,43627,Bachelor,Female,Los Angeles,76,2.2779937057653785,8,IT
+25,65939,Master,Male,Chicago,85,3.2315627607271478,6,Marketing
+21,88925,Bachelor,Female,Chicago,67,2.0283841119185477,3,Marketing
+19,82941,Bachelor,Female,Chicago,88,3.171651604985316,7,IT
+23,61834,PhD,Male,San Francisco,85,2.1407581892045933,9,Marketing
+39,58047,PhD,Female,San Francisco,69,2.2970447906701796,7,IT
+27,66105,Bachelor,Male,Chicago,85,2.293815616942762,8,Marketing
+21,50230,Bachelor,Female,Los Angeles,89,3.623025755290159,5,Finance
+39,55707,PhD,Female,San Francisco,61,3.8651121981635583,7,Finance
+35,61976,PhD,Male,San Francisco,78,3.458421912742899,9,HR
+29,84262,PhD,Female,San Francisco,68,4.405431371186355,7,Finance
+19,63776,Master,Female,Chicago,66,2.93717644880926,7,Finance
+27,70080,Bachelor,Female,Chicago,63,2.714280215704652,7,Finance
+21,41306,PhD,Female,Chicago,85,4.17149782047365,4,IT
+31,46776,Bachelor,Female,Chicago,80,2.5589895962986313,4,Finance
+33,67251,Master,Male,Chicago,77,4.408056348601528,5,Finance
+32,49474,Master,Female,Los Angeles,72,2.0303861867245407,3,HR
+25,80294,PhD,Male,Los Angeles,70,4.424697066769097,7,Finance
+31,61959,Master,Female,Chicago,88,2.1078997798764405,8,Finance
+25,45530,Bachelor,Male,San Francisco,83,4.227857784245177,3,Marketing
+38,69320,PhD,Male,Chicago,63,3.3192527727157497,8,HR
+33,43748,Bachelor,Female,Los Angeles,84,4.482411990298251,3,HR
+30,71968,Bachelor,Female,Los Angeles,80,2.184491411838497,5,HR
+35,72562,Master,Female,San Francisco,88,3.384635711003302,7,HR
+32,53545,Master,Male,Los Angeles,84,4.4232563390477475,7,HR
+38,40663,Master,Female,Chicago,63,3.307744610425372,6,HR
+30,74766,Master,Male,San Francisco,69,3.573496595338156,8,IT
+26,47994,Master,Male,Chicago,64,3.739371722461543,3,Finance
+32,68021,PhD,Male,Chicago,68,3.136352661919433,3,HR
+30,70303,Bachelor,Female,San Francisco,83,3.5688952002101586,4,Finance
+18,43304,Bachelor,Female,Chicago,62,3.4607857798077504,6,Finance
+24,86576,Bachelor,Male,Los Angeles,76,4.252895026227472,9,IT
+26,79353,Bachelor,Male,Chicago,62,2.1136159508536445,9,HR
+18,57675,Master,Female,San Francisco,75,2.7024079739805758,4,Marketing
+29,84417,Bachelor,Male,San Francisco,63,4.376028710191397,4,IT
+25,63938,PhD,Female,San Francisco,77,4.225659459727291,4,Marketing
+28,63664,PhD,Male,Chicago,76,3.1391418819642825,8,Finance
+36,41636,Bachelor,Female,San Francisco,66,3.550331494503842,8,Finance
+34,60080,Bachelor,Male,San Francisco,83,2.6934529574528314,5,IT
+25,67728,PhD,Female,Chicago,82,2.470302899309403,5,IT
+20,89850,PhD,Male,Los Angeles,89,3.1592460123499553,4,Marketing
+20,66736,Master,Female,Chicago,64,2.883380570065132,6,HR
+18,68673,PhD,Female,San Francisco,71,3.45914027962718,3,Marketing
